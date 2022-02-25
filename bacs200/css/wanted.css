@@ -44,10 +44,13 @@ main ul
 	padding-left: 2px;
 }
 img {
-    float:left
+    float:left;
+    width: 500px;
+    height: 500px;
 }
 #wantedlist {
-    float:right
+    float:right;
+    font-size: 200pt;
 }
 footer {
     padding-top:500px;
