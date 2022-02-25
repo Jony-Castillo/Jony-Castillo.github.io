@@ -25,3 +25,21 @@ header h2
 	font-size:  20pt;
 	font-variant: small-caps;
 }
+main h1
+{
+	font-size:  40pt;
+	margin: 0;
+}
+main h2
+{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+main ul
+{
+	display:  table;
+	margin: 0 auto;
+	text-align:  left;
+	padding-left: 2px;
+}
