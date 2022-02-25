@@ -43,3 +43,9 @@ main ul
 	text-align:  left;
 	padding-left: 2px;
 }
+img {
+    float:left
+}
+#wantedlist {
+    float:right
+}
