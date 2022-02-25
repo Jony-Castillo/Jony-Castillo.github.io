@@ -50,5 +50,7 @@ img {
     float:right
 }
 footer {
-    position: fixed;
+    padding-top:500px;
+    bottom: 0;
+    text-align: center;
 }
